@@ -1,16 +1,24 @@
-### Hi there 👋
+# Vardges Hovhannisyan 👋
+**Senior Frontend Engineer (React, TypeScript, Next.js)**  
+Product-minded UI • Performance • Testing • Large-data visualization (D3.js)
 
-<!--
-**VkoHov/VkoHov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build user-centered web applications with a strong focus on **UX clarity** and **engineering quality**.  
+I enjoy complex frontend work: large codebases, tricky state, data-heavy UI, and shipping changes safely.
 
-Here are some ideas to get you started:
+## What I do best
+- **Product UI delivery:** turning workflows into simple, reliable experiences  
+- **Frontend engineering:** clean architecture, maintainable components, scalable UI systems  
+- **Performance:** fast rendering and smooth interactions (including large datasets)  
+- **Visualization:** interactive charts and data exploration with **D3.js**  
+- **Quality:** tests and confidence in shipping (**Jest**, **React Testing Library**, **Cypress**)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech
+**React • TypeScript • Next.js • D3.js • Redux • MobX • Zustand • Jest/RTL • Cypress**
+
+## Featured
+- ⭐ **Aim (open source)** — Core contributor; worked on frontend features, stability, and data visualization  
+  https://github.com/aimhubio/aim
+
+## Links
+- LinkedIn: https://www.linkedin.com/in/vardgeshovhannisyan/
+- Email: mailto:vkohovhannisyan96@gmail.com
